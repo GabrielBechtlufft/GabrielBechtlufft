@@ -25,7 +25,5 @@
 
 **`gabriel@github ~ $ ls projects/`**
 
-- **Notivy**: plataforma de agendamento que recebe compromissos por WhatsApp/Telegram e envia lembretes automáticos
-- **Gym API**: API REST de gestão de academia em Spring Boot + JPA + MySQL
 - **Waste Classifier**: classificação de resíduos em tempo real com Python + YOLO
 - **ESP32 + ThingsBoard**: telemetria IoT via MQTT
