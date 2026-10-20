@@ -25,5 +25,5 @@
 
 **`gabriel@github ~ $ ls projects/`**
 
-- **Waste Classifier**: classificação de resíduos em tempo real com Python + YOLO
-- **ESP32 + ThingsBoard**: telemetria IoT via MQTT
+- [**Mundo Gestão**](https://github.com/GabrielBechtlufft/mundo-gestao) · [demo](https://mundo-gestao.vercel.app): marketplace que conecta empresas a certificadoras ISO, com aprovação de escopo, chat com propostas, avaliações e painel admin. `Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth`
+- [**FireIA**](https://github.com/GabrielBechtlufft/FireIA): sistema autônomo de combate a incêndio. YOLOv8 detecta o fogo, uma homografia converte pixels em metros e um robô ESP32 vai até o local. `Python` `YOLOv8` `OpenCV` `Flask` `ESP32` `n8n`
