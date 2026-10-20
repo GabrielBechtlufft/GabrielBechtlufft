@@ -1,6 +1,11 @@
 ### `gabriel@github ~ $ whoami`
 
-[![Retrato ASCII](avi-ascii.svg)](avi-ascii.svg) [![Info card estilo fastfetch](info-card.svg)](info-card.svg)
+<table>
+  <tr>
+    <td valign="top"><img src="avi-ascii.svg" width="340" alt="Retrato ASCII"></td>
+    <td valign="top"><img src="info-card.svg" width="480" alt="Info card estilo fastfetch"></td>
+  </tr>
+</table>
 
 ### `gabriel@github ~ $ ./contributions.sh`
 
