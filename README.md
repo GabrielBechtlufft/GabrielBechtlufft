@@ -1,16 +1,26 @@
-## Hi there 👋
+### `gabriel@github ~ $ whoami`
 
-<!--
-**GabrielBechtlufft/GabrielBechtlufft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Retrato ASCII](avi-ascii.svg)](avi-ascii.svg) [![Info card estilo fastfetch](info-card.svg)](info-card.svg)
 
-Here are some ideas to get you started:
+### `gabriel@github ~ $ ./contributions.sh`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Contribuições nos últimos 12 meses](contrib-heatmap.svg)](contrib-heatmap.svg)
+
+**`gabriel@github ~ $ cat stack.md`**
+
+| Categoria            | Tecnologias                                              |
+| -------------------- | -------------------------------------------------------- |
+| **Linguagens**       | TypeScript, JavaScript, Java, Python, PHP, SQL           |
+| **Frontend**         | React, Next.js, HTML, CSS                                |
+| **Backend**          | Laravel, Spring Boot, Spring Data JPA, Node.js, Prisma   |
+| **Automação**        | n8n, Webhooks, WhatsApp/Telegram                         |
+| **Bancos de dados**  | MySQL                                                    |
+| **IoT & Visão**      | ESP32, MQTT, ThingsBoard, Wokwi, YOLO, OpenCV            |
+| **DevOps & Tooling** | Docker, Git, GitHub Actions, VS Code, Claude Code        |
+
+**`gabriel@github ~ $ ls projects/`**
+
+- **Notivy**: plataforma de agendamento que recebe compromissos por WhatsApp/Telegram e envia lembretes automáticos
+- **Gym API**: API REST de gestão de academia em Spring Boot + JPA + MySQL
+- **Waste Classifier**: classificação de resíduos em tempo real com Python + YOLO
+- **ESP32 + ThingsBoard**: telemetria IoT via MQTT
